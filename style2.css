@@ -1,9 +1,12 @@
 body {
     background: red;
+    margin:0 auto;
+    width:1000px;
 }
 h1 {
     font-size: 3em;
 }
 p {
     font-size: 1.5em;
+
 }
